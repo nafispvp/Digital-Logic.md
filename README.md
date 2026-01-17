@@ -1,6 +1,6 @@
 # Digital Logic
 # Introduction
-👨‍💼Lecturer : Dr Farkhana binti Muchtar <br>
+👩‍💼Lecturer : Dr Farkhana binti Muchtar <br>
 👨🏻‍🎓Section : 08
 
 # 📝Summary
